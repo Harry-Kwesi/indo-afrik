@@ -1,6 +1,6 @@
-# Indo-Afrik website
+# indo2afri website
 
-A static website for Indo-Afrik, an export, import and freight logistics company. It is plain HTML, CSS and a little JavaScript, with no build step, so it can be hosted anywhere (Netlify, Vercel, GitHub Pages, cPanel).
+A static website for indo2afri, an export, import and freight logistics company. It is plain HTML, CSS and a little JavaScript, with no build step, so it can be hosted anywhere (Netlify, Vercel, GitHub Pages, cPanel).
 
 The design is custom: a deep navy hero with a live dotted world map (trade lanes pulse both ways between India, Africa, Europe, the Gulf and Asia), bright sections of rounded cards, tinted product tiles and line icons, with the brand orange `#F04A2A` as the accent. Type is Unbounded for headings, Onest for text and JetBrains Mono for trade codes (HS chapters, container sizes, Incoterms), all from Google Fonts.
 
@@ -18,13 +18,13 @@ The Products and Services menus open on hover or keyboard focus. Phones get a si
 
 ## Logo files (`assets/brand/`)
 
-The mark is a square orange plate with two opposed arrows: export out, import in. The wordmark is Chivo Mono ExtraBold, converted to outlines, so the SVGs need no font installed.
+The mark is a square orange plate with two opposed arrows: export out, import in. The wordmark is set in lowercase Jost, widely spaced, and converted to outlines, so the SVGs need no font installed.
 
 | Use | SVG | PNG (`assets/brand/png/`) |
 | --- | --- | --- |
-| Primary / navbar logo (horizontal, transparent) | `logo-primary.svg` | `logo-primary.png` (2308 x 400) |
-| Dark version, for light backgrounds | `logo-dark.svg` | `logo-dark.png` |
-| White/light version, for dark backgrounds | `logo-light.svg` | `logo-light.png` |
+| Primary / navbar logo (horizontal, orange wordmark, transparent; works on light and dark) | `logo-primary.svg` | `logo-primary.png` (2308 x 400) |
+| Dark version (ink wordmark), for light backgrounds | `logo-dark.svg` | `logo-dark.png` |
+| White version (white wordmark), for dark backgrounds | `logo-light.svg` | `logo-light.png` |
 | Footer, monochrome white | `logo-mono-white.svg` | `logo-mono-white.png` |
 | Monochrome black (print, stamps) | `logo-mono-black.svg` | `logo-mono-black.png` |
 | Stacked badge, light backgrounds | `logo-stacked-dark.svg` | `logo-stacked-dark.png` |
