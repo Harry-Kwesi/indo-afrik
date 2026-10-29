@@ -18,22 +18,14 @@ The Products and Services menus open on hover or keyboard focus. Phones get a si
 
 ## Logo files (`assets/brand/`)
 
-The mark is a square orange plate with two opposed arrows: export out, import in. The wordmark is set in lowercase Jost, widely spaced, and converted to outlines, so the SVGs need no font installed.
-
 | Use | SVG | PNG (`assets/brand/png/`) |
 | --- | --- | --- |
-| Primary / navbar logo (horizontal, orange wordmark, transparent; works on light and dark) | `logo-primary.svg` | `logo-primary.png` (2308 x 400) |
-| Dark version (ink wordmark), for light backgrounds | `logo-dark.svg` | `logo-dark.png` |
-| White version (white wordmark), for dark backgrounds | `logo-light.svg` | `logo-light.png` |
-| Footer, monochrome white | `logo-mono-white.svg` | `logo-mono-white.png` |
-| Monochrome black (print, stamps) | `logo-mono-black.svg` | `logo-mono-black.png` |
-| Stacked badge, light backgrounds | `logo-stacked-dark.svg` | `logo-stacked-dark.png` |
-| Stacked badge, dark backgrounds | `logo-stacked-light.svg` | `logo-stacked-light.png` |
-| Stacked badge, monochrome white | `logo-stacked-mono-white.svg` | `logo-stacked-mono-white.png` |
-| App icon / favicon (mark only, square) | `icon.svg`, `mark.svg`, `favicon.ico` (16, 32, 48) | `icon-512.png`, `icon-192.png`, `apple-touch-icon.png` (180), `favicon-16/32/48.png` |
-| Mark, monochrome white | `mark-mono-white.svg` | `mark-mono-white-512.png` |
+| Primary logo, orange wordmark (site header, light backgrounds) | `logo-primary.svg` | `logo-primary.png` |
+| Dark wordmark, for light backgrounds | `logo-dark.svg` | `logo-dark.png` |
+| White wordmark, for dark backgrounds (site footer) | `logo-white.svg` | `logo-white.png` |
+| Favicon and app icon, orange "i2a" tile | `icon.svg`, `favicon.ico` (16, 32, 48) | `icon-512.png`, `icon-192.png`, `apple-touch-icon.png` (180), `favicon-16/32/48.png` |
 
-Colours: orange `#F04A2A`, ink `#10141C`, white `#FFFFFF`. Ink text on orange passes WCAG AA contrast. White on orange does not for small text, so buttons use ink text.
+Brand orange: `#F04A2A`.
 
 ## Before going live
 
